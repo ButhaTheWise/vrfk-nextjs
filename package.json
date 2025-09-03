@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@iconify-icon/react": "^3.0.0",
     "@tailwindcss/postcss": "^4",
     "daisyui": "^5.1.6",
     "eslint": "^9",
